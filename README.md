@@ -4,7 +4,6 @@ Housing Company wants to make profits by purchasing houses at lower prices and s
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Contents of this project)(#contents-of-this-project)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Contact](#contact)

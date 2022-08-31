@@ -17,6 +17,7 @@ Housing Company wants to make profits by purchasing houses at lower prices and s
 
 ## Contents of this project
 - HousingPricePrediction py contains EDA and Regression models with Ridge & Lasso regularization techniques.
+- Advanced Regression Part II pdf file contains answers for subjective questions based on the analysis.
 
 ## Conclusions
 - Ridge regularization technique gave an overall R2 of 86.7 on train and 85.5 on test data with Alpha value 550.

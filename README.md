@@ -20,9 +20,7 @@ Housing Company wants to make profits by purchasing houses at lower prices and s
 - Advanced Regression Part II pdf file contains answers for subjective questions based on the analysis.
 
 ## Conclusions
-- Ridge regularization technique gave an overall R2 of 86.7 on train and 85.5 on test data with Alpha value 550.
-- Lasso regularization technique gave an overall R2 of 89.4 on train and 86.1 on test data with Alpha value 450.
-- Overall, Lasso performed better when test R2 is compared.
+- Lasso performed better when test R2 is compared.
 
 
 ## Technologies Used
